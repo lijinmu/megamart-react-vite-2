@@ -91,7 +91,7 @@ export function downloadInvoice(order) {
     '',
     `TOTAL: INR ${order.total.toFixed(2)}`,
     '',
-    'Thank you for shopping with MegaMart.',
+    'Thanks for testing the MegaMart demo!. We hope, we are able to come up with real site in future. We hope you enjoyed your shopping experience. We will come up with more features in the future. Stay tuned!',
   ];
 
   const url = URL.createObjectURL(createPdf(lines));
