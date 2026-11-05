@@ -86,7 +86,7 @@ export default function Header({ cartCount, currentUser, products, onCart }) {
               <MapPin /> Deliver to <b>000000</b>
             </span>
             <span>
-              <Truck /> Track your order
+              <Truck /> Test your order
             </span>
             <span>
               <Tag /> All Offers
