@@ -80,10 +80,10 @@ export default function Header({ cartCount, currentUser, products, onCart }) {
     <>
       <div className="top-strip">
         <div className="container top-inner">
-          <span>Welcome to worldwide Megamart!</span>
+          <span>Megamart demo site</span>
           <div>
             <span>
-              <MapPin /> Deliver to <b>423651</b>
+              <MapPin /> Deliver to <b>000000</b>
             </span>
             <span>
               <Truck /> Track your order
